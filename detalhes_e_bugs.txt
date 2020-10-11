@@ -1,0 +1,3 @@
+Primeiri passo instalar o node e o npm no meu wsl2:
+Segui esses topicos:
+https://docs.microsoft.com/pt-br/windows/nodejs/setup-on-wsl2
