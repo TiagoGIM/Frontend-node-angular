@@ -1,27 +1,25 @@
-# FrontendNodeAngular
+# Backend-Flask-Docker
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
+Construção de uma aplicação com três partes. O [backend](https://github.com/TiagoGIM/Backend-Flask-Docker) usando o microframework FLASK (Python), o front-end será [feito com o Angular cli]() (node.js) e os [dados persistentes](##-Banco-de-dados) ficarão em um servidor que rodará em um container (docker).
+O objetivo é transformar todas as partes em containers.
 
-## Development server
+## Jornada de aprendizado
+Como eu sempre reclamo que os tutoriais pulam as partes que tem bug, decidi relatar neste arquivo [detalhes e bugs]() cada erro e como eu contornei(ou tentei).
+Coloquei em [Temas abordados](#-Temas-abordados.) alguns links que consultei durante a realização do tutorial, a final o objetivo é entender como as coisas funcionam.
+### Parte 1
+
+## Ambiente de desenvolvimento
+O desenvolvimento foi feito no windows com subsistema linux (WSL).
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
+# Temas abordados
+- Instalação de (nodeJs no WSL 2)[https://docs.microsoft.com/pt-br/windows/nodejs/setup-on-wsl2]
+- Um pouco sobre Cross-Origin Resource Sharing [(CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
