@@ -1,7 +1,16 @@
 # Frontend-node-angular
+### *Objetivo*
+Criei esse projeto para descrever minha [jornada de aprendizado](##-1.-Jornada-de-aprendizado) em um tutorial sobre aplicação web que foi dividdo em 3 tutorias, o objetivo aqui é aprender a usar as ferrametas e ajudar a quem, assim como eu, não manja muito dos paranuês.
 
-Desenvolvimento de uma aplicação com três partes: 1. [Backend](https://github.com/TiagoGIM/Backend-Flask-Docker) usando o microframework FLASK (Python); 2. [Front-end](https://github.com/TiagoGIM/Frontend-node-angular/) será feito com o Angular cli (node.js) e os [dados persistentes](##-Banco-de-dados) ficarão em um servidor que rodará em um container (docker).
-O objetivo é transformar todas as partes em containers.
+**_Obs._**: *Para evitar confusão eu criei repositórios separados para a parte do servido e cliente.*
+
+### *Divisão do projeto*
+Desenvolvimento de uma aplicação com três partes:
+ 1. [Backend](https://github.com/TiagoGIM/Backend-Flask-Docker) usando o microframework FLASK (Python);
+2. [Front-end](https://github.com/TiagoGIM/Frontend-node-angular/) será feito com o Angular cli (node.js);
+3. [Banco de dados](##-Banco-de-dados). os dados persistentes ficarão em um servidor que rodará em um container (docker).
+
+**_Obs._**: *A intenção é transformar todas as partes em containers.*
 
 ## 1. Jornada de aprendizado
 Como eu sempre reclamo que os tutoriais pulam as partes que tem bug, decidi relatar neste arquivo [detalhes e bugs](https://github.com/TiagoGIM/Frontend-node-angular/blob/main/detalhes_e_bugs.txt) cada erro e como eu contornei(ou tentei).
