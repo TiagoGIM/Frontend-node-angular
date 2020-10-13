@@ -12,7 +12,7 @@ Coloquei em [Temas abordados](##-3.-Temas-abordados.) alguns links que consultei
 O primeiro problema que apareceu era um modulo que não estava instalado.
 <div  align="center">
 <section data-markdown>                    
-<img src="./imgs_bugs/bug_1.PNG">
+<img src="./app/imgs_bugs/bug_1.PNG">
 </section>
 </div>
  
@@ -26,7 +26,7 @@ Solução: *Instale o modulo rxjs:*
 
 <div  align="center">
 <section data-markdown>                    
-<img src="./imgs_bugs/bug_2.PNG">
+<img src="./app/imgs_bugs/bug_2.PNG">
 </section>
 </div>
 
