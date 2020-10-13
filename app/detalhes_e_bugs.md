@@ -1,6 +1,7 @@
 # Iniciando a jornada
 ## 1. Parte I
-Primeirio passo instalar o node e o npm no meu wsl2, segui esses topicos: [nodeJs windows wsl](https://docs.microsoft.com/pt-br/windows/nodejs/setup-on-wsl2).
+Primeirio passo instalar o node e o npm no meu wsl2, segui esses topicos:
+ - [Configurar o ambiente de desenvolvimento do Node.js com o WSL 2](https://docs.microsoft.com/pt-br/windows/nodejs/setup-on-wsl2).
 (_Fique confortável pra tentar outras alternativas._)
 
 Criei o repositório no github separado para este projeto na intenção de evitar problemas de versão e gerenciamento.
