@@ -1,6 +1,6 @@
 # Frontend-node-angular
 ### *Objetivo*
-Criei esse projeto para descrever minha [jornada de aprendizado](##-1.-Jornada-de-aprendizado) em um tutorial sobre aplicação web que foi dividdo em 3 tutorias, o objetivo aqui é aprender a usar as ferrametas e ajudar a quem, assim como eu, não manja muito dos paranuês.
+Criei esse projeto para descrever minha [jornada de aprendizado](#1-jornada-de-aprendizado) em um tutorial sobre aplicação web que foi dividdo em 3 tutorias, o objetivo aqui é aprender a usar as ferrametas e ajudar a quem, assim como eu, não manja muito dos paranuês.
 
 **_Obs._**: *Para evitar confusão eu criei repositórios separados para a parte do servido e cliente.*
 
@@ -14,7 +14,7 @@ Desenvolvimento de uma aplicação com três partes:
 
 ## 1. Jornada de aprendizado
 Como eu sempre reclamo que os tutoriais pulam as partes que tem bug, decidi relatar neste arquivo [detalhes e bugs](https://github.com/TiagoGIM/Frontend-node-angular/blob/app/main/detalhes_e_bugs.md) cada erro e como eu contornei(ou tentei).
-Coloquei em [Temas abordados](##-4.-Temas-abordados.) alguns links que consultei durante a realização do tutorial, a final o objetivo é entender como as coisas funcionam.
+Coloquei em [Temas abordados](#4-Temas-abordados.) alguns links que consultei durante a realização do tutorial, a final o objetivo é entender como as coisas funcionam.
 ### 1.1 Parte 1 
 #### 1.1.2 **BUGS**
 **Bug 1** -
