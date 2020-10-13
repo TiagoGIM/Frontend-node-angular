@@ -55,5 +55,4 @@ editei a linha que estava aparecendo o problem com .
 ```
 get<Exam[]>(`${API_URL}/exams`)
 ```
-Resolvi seguindo essa ajuda: [Stackoverflow link]
-(https://stackoverflow.com/questions/54475893/typescript-type-x-is-missing-the-following-properties-from-type-y-length-pop)
+Resolvi seguindo essa ajuda: [Stackoverflow link](https://stackoverflow.com/questions/54475893/typescript-type-x-is-missing-the-following-properties-from-type-y-length-pop)
