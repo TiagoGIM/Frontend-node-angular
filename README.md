@@ -13,8 +13,8 @@ Desenvolvimento de uma aplicação com três partes:
 **_Obs._**: *A intenção é transformar todas as partes em containers.*
 
 ## 1. Jornada de aprendizado
-Como eu sempre reclamo que os tutoriais pulam as partes que tem bug, decidi relatar neste arquivo [detalhes e bugs](https://github.com/TiagoGIM/Frontend-node-angular/blob/app/main/detalhes_e_bugs.md) cada erro e como eu contornei(ou tentei).
-Coloquei em [Temas abordados](##-3.-Temas-abordados.) alguns links que consultei durante a realização do tutorial, a final o objetivo é entender como as coisas funcionam.
+Como eu sempre reclamo que os tutoriais pulam as partes que tem bug, decidi relatar neste arquivo [detalhes e bugs](./app/detalhes_e_bugs.md) cada erro e como eu contornei(ou tentei).
+Coloquei em [Temas abordados](##-4.-Temas-abordados.) alguns links que consultei durante a realização do tutorial, a final o objetivo é entender como as coisas funcionam.
 ### 1.1 Parte 1 
 #### 1.1.2 **BUGS**
 **Bug 1** -
